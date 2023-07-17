@@ -21,7 +21,7 @@
 - Then change the deploy link bellow.
 - This step must be doing because mine link is violates the salesforce acceptable use.
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/OTANCABUL/OTAN-PYROBOT"> <img 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/rayhanadityanugraha/RAY-PYROBOT"> <img 
 src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 
